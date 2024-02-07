@@ -1,7 +1,7 @@
 # Translation files
 If you want to contribute to translating Owler's layout, follow the instructions below.
 
-We are currently in need of translation into Japanese (ja) and Spanish (es)
+We are currently in need of translation into Japanese (ja)
 
 You can request a additional language (in this case, a blank file so you can edit it) via a Github issue.
 
