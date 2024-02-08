@@ -1,7 +1,7 @@
 # Translation files
 If you want to contribute to translating Owler's layout, follow the instructions below.
 
-~~We are currently in need of translation into Japanese (ja)~~ @angel_hanachi is translating it right now
+~~We are currently in need of translation into Japanese (ja)~~ (@angel_hanachi is currently working on the ja translation)
 
 You can request a additional language (in this case, a blank file so you can edit it) via a Github issue.
 
@@ -9,6 +9,7 @@ You can request a additional language (in this case, a blank file so you can edi
 You can translate the .po file by a tool called poedit. There are other tools too, but poedit is used for us because it is more intuitive, but it's your choice.
 When you think it's enough, you can make a pull request with the edited file. To do this, you need to fork this repository, make the changes, then do a pull request.
 ### Notice
+Editing manually using a text editor is not recommended, since it can cause problems.
 If you're editing it manually, using a text editor, please do only edit the `msgstr` for the translation and leave the `msgid` intact. If you edit the `msgid`, the file won't work.
 
 ## How to make a good translation?
